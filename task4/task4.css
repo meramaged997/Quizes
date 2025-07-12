@@ -1,0 +1,60 @@
+h2{
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.about-info{
+    display: flex;
+    justify-content: space-around;
+}
+.team-members{
+    display: flex;
+    justify-content: space-around;
+}
+#contact{
+    display: flex;
+    justify-content: space-around;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+p{
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: rgba(20, 19, 19, 0.849);
+    margin-bottom: 20px;
+    text-align: center;
+}
+h3{
+    font-size: 1.5em;
+    color: black;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#contact{
+
+    text-align: center;
+    margin: 50px 0;
+}
+#contact button {
+    background-color: red;
+    color: #f4f4f4;
+   padding: 15px 30px;
+   border: none;
+   border-radius: 25px;
+   font-size: 16px;
+   width: fit-content;
+   height: fit-content;
+   cursor: pointer;
+}
+#contact button:hover {
+    background-color: #ff4d4d;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
